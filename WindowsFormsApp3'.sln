@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kayıt_Sistemi", "WindowsFormsApp3'\Kayıt_Sistemi.csproj", "{A6AB5E2B-22EF-4536-BE49-56B10E256AEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6AB5E2B-22EF-4536-BE49-56B10E256AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6AB5E2B-22EF-4536-BE49-56B10E256AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6AB5E2B-22EF-4536-BE49-56B10E256AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6AB5E2B-22EF-4536-BE49-56B10E256AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4E4DCD4-9C1A-42DB-AF59-19EC9795C81B}
+	EndGlobalSection
+EndGlobal
